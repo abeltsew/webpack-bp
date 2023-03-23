@@ -6,6 +6,7 @@ yarn-debug.log*
 yarn-error.log*
 lerna-debug.log*
 package-lock.json
+yarn.lock
 
 .DS_Store
 # Diagnostic reports (https://nodejs.org/api/report.html)
@@ -104,3 +105,4 @@ dist
 
 # TernJS port file
 .tern-port
+.DS_Store
